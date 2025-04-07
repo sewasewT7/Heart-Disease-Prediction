@@ -1,5 +1,5 @@
-# 💓 Heart Disease Prediction System
-
+# 💓 Heart Disease Prediction System 
+-
 This project uses machine learning to predict whether a person has heart disease based on medical parameters. The goal is to provide a fast, accessible, and accurate prediction system that can assist in early diagnosis.
 ---
 
