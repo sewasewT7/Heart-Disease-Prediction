@@ -1,5 +1,5 @@
 # 💓 Heart Disease Prediction System 
--
+
 This project uses machine learning to predict whether a person has heart disease based on medical parameters. The goal is to provide a fast, accessible, and accurate prediction system that can assist in early diagnosis.
 ---
 
@@ -65,9 +65,11 @@ This project uses the Cleveland Heart Disease dataset from the UCI Machine Learn
 
 -🔄 Data pipelines and better preprocessing
 
-##👤 Author
+## 👤 Author
 Sewasew Tadele
+---
 Student | ML Enthusiast
+---
 GitHub
 
 
